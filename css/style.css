@@ -1,17 +1,24 @@
-#sitehead{
+#sitehead {
     text-align: center;
     font-family: "Tilt warp";
-    padding: 2em;
+    padding: 1em;
     font-size: 4em;
 }
 
-#pitch{
+#pitch {
     text-align: center;
     font-family: "Tilt neon";
-    padding: 5em;
+    padding: 2em;
     font-size: 1em;
 }
 
-#rundown{
-    padding: 2em;
+#rundown {
+    padding: 3em;
+    font-family: "tilt neon";
+}
+
+#reviews {
+    text-align: center;
+    padding:3em;
+    font-family: "tilt neon";
 }
