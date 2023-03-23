@@ -2,6 +2,13 @@ body {
     font-size: 150%;
 }
 
+
+header{
+
+background-image: url(img/folks-laughing-at-you.jpg);
+background-size: contain;
+}
+
 #sitehead {
     text-align: center;
     font-family: "Tilt warp";
